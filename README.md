@@ -14,6 +14,6 @@
 * Electron для сборки приложения под платформу windows
 
 
-[Сссылка на установщик](https://www.dropbox.com/s/1z46n37ubek3xcf/tvapp%20Setup%200.3.0.exe?dl=0)
+[Ссылка на установщик](https://www.dropbox.com/s/1z46n37ubek3xcf/tvapp%20Setup%200.3.0.exe?dl=0)
 
 ![img](https://github.com/YogurtWithSpoon/PicturesForProjects/blob/master/tvapp.png?raw=true)
